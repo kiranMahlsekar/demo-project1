@@ -1,4 +1,4 @@
 # demo-project1
-GitDemo
+GitHub Demo
 
 The quick brown fox jumps over the lazy dog 
